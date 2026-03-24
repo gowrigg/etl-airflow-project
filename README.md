@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview
 ========
 
@@ -43,3 +44,7 @@ Contact
 =======
 
 The Astronomer CLI is maintained with love by the Astronomer team. To report a bug or suggest a change, reach out to our support.
+=======
+# etl-airflow-project
+ETL pipeline using Astro, Airflow, Docker &amp; PostgreSQL
+>>>>>>> d5fa36c4783577401905983e75c5185494aabae4
